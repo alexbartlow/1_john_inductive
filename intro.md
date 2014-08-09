@@ -41,7 +41,9 @@ away from following the truth.
 ## 1:1-4 - Witnessing the Incarnate Word (Logos)
 
 ## 1:5-2:28 - Requirements for Fellowship with God, who is Light
-### 1:5 - 2:2 - Walking in the Light and not in the Darkness
+
+<%= include_file '1_5-2_2' %>
+
 ### 2:3 - 2:11 - Walk in the Same Manner as He Walked
 ### 2:12 - 2:17 - Knowing proceeds Overcoming
 ### 2:18 - 2:23 - Warning Against False Teachers
@@ -50,7 +52,7 @@ away from following the truth.
 ## 2:29 - 4:6 - Requirements for Fellowship with God, who is Righteous
 ### 2:29 - 3:10 - Children of God ; Children of Satan
 ### 3:11 - 3:24 - Loving one Another in Deed and Truth
-3:15 see also Mt5
+  3:15 see also Mt5
 ### 4:1 - 4:6 - Testing the Spirits
 
 ## 4:7 - 5:12 - Requirements for Fellowship with God, who is Love
