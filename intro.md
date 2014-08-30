@@ -43,7 +43,7 @@ away from following the truth.
 ## 1:5-2:28 - Requirements for Fellowship with God, who is Light
 
 <%= include_file '1_5-2_2' %>
-
+<%= include_file '2_3-3_11' %>
 ### 2:3 - 2:11 - Walk in the Same Manner as He Walked
 ### 2:12 - 2:17 - Knowing proceeds Overcoming
 ### 2:18 - 2:23 - Warning Against False Teachers
