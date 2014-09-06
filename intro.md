@@ -14,7 +14,7 @@ pull other believers away from the fold.
 
 Also some Docetism elements - saying that Jesus didn't have a physical
 body. Others said that Jesus was a human being, but then Christ came and
-took over his body and left. High amounts of synchrotism and mixing of
+took over his body and left. High amounts of synchronism and mixing of
 religions from all around the Roman empire, in addition to the Roman
 cults.
 
@@ -43,16 +43,14 @@ away from following the truth.
 ## 1:5-2:28 - Requirements for Fellowship with God, who is Light
 
 <%= include_file '1_5-2_2' %>
-<%= include_file '2_3-3_11' %>
-### 2:3 - 2:11 - Walk in the Same Manner as He Walked
+<%= include_file '2_3-2_11' %>
 ### 2:12 - 2:17 - Knowing proceeds Overcoming
-### 2:18 - 2:23 - Warning Against False Teachers
+<%= include_file '2_18-2_23' %>
 ### 2:24 - 2:28 - Abiding in Christ
 
 ## 2:29 - 4:6 - Requirements for Fellowship with God, who is Righteous
 ### 2:29 - 3:10 - Children of God ; Children of Satan
 ### 3:11 - 3:24 - Loving one Another in Deed and Truth
-  3:15 see also Mt5
 ### 4:1 - 4:6 - Testing the Spirits
 
 ## 4:7 - 5:12 - Requirements for Fellowship with God, who is Love
