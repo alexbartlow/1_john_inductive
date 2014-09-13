@@ -44,7 +44,7 @@ away from following the truth.
 
 <%= include_file '1_5-2_2' %>
 <%= include_file '2_3-2_11' %>
-### 2:12 - 2:17 - Knowing proceeds Overcoming
+<%= include_file '2_12-2_17' %>
 <%= include_file '2_18-2_23' %>
 ### 2:24 - 2:28 - Abiding in Christ
 
