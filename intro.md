@@ -49,7 +49,7 @@ away from following the truth.
 ## 2:29 - 4:6 - Requirements for Fellowship with God, who is Righteous
 <%= include_file '2_29-3_10' %>
 <%= include_file '3_11-3_24' %>
-### 4:1 - 4:6 - Testing the Spirits
+<%= include_file '4_1-4_6' %>
 
 ## 4:7 - 5:12 - Requirements for Fellowship with God, who is Love
 ### 4:7 - 4:12 - God Loved us, and Enables our Love
