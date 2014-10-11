@@ -22,19 +22,17 @@ Very pastoral letter, John was afraid that his people would be pulled
 away from following the truth.
 
 # An Index of False Teacher's Remarks:
-+ 2:22 - They deny that Jesus is the Son of God
-+ 4:2 - They deny that Jesus came in the flesh
-+ 2:4 - They deny the authority of Jesus
-+ 1:8,10 - They deny their own sinfulness
-+ 2:2 - They deny salvation through the work of Christ
-+ 2:9 - They deny the obligation of believers to love one another
-+ 1:6, 2:29, 3:6, 3:10 - They deny righteous conduct as a requirement of
-  fellowship with God
-+ 2:4,2:6,3:7 - They deny the responsibility to live as Jesus had lived
 + 1:3,2:11 - They deny the necessity and holiness of Fellowship
 + 1:5 - They deny the authority of the writer of the Epistles
-+ 2:20-21 - They deny the members of the community who do not follow them
-  were in the truth
++ 1:6, 2:29, 3:6, 3:10 - They deny righteous conduct as a requirement of fellowship with God
++ 1:8,10 - They deny their own sinfulness
++ 2:2 - They deny salvation through the work of Christ
++ 2:4 - They deny the authority of Jesus
++ 2:4,2:6,3:7 - They deny the responsibility to live as Jesus had lived
++ 2:9 - They deny the obligation of believers to love one another
++ 2:20-21 - They deny the members of the community who do not follow them were in the truth
++ 2:22 - They deny that Jesus is the Son of God
++ 4:2 - They deny that Jesus came in the flesh
 
 # Paragraph Studies
 
@@ -49,8 +47,8 @@ away from following the truth.
 ### 2:24 - 2:28 - Abiding in Christ
 
 ## 2:29 - 4:6 - Requirements for Fellowship with God, who is Righteous
-### 2:29 - 3:10 - Children of God ; Children of Satan
-### 3:11 - 3:24 - Loving one Another in Deed and Truth
+<%= include_file '2_29-3_10' %>
+<%= include_file '3_11-3_24' %>
 ### 4:1 - 4:6 - Testing the Spirits
 
 ## 4:7 - 5:12 - Requirements for Fellowship with God, who is Love
